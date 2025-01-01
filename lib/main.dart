@@ -24,11 +24,11 @@ class CalculatorApp extends StatelessWidget {
                   borderSide: BorderSide(color: Colors.blueGrey)
               ),
               focusedBorder: OutlineInputBorder(
-                  borderSide: BorderSide(color: Colors.blueGrey)
+                  borderSide: BorderSide(color: Colors.blue)
 
               ),
               enabledBorder: OutlineInputBorder(
-                  borderSide: BorderSide(color: Colors.blueGrey)
+                  borderSide: BorderSide(color: Colors.deepOrangeAccent)
 
               ),
               errorBorder: OutlineInputBorder(
